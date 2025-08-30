@@ -20,4 +20,4 @@ __"Máquinas Virtuais"__
   * Configurei a Rede Virtual, a sub-rede, e um Endereço IP público para que a VM pudesse ser acessada pela internet.
 
 ### Aba "Revisar + Criar"
-  * Aqui é a última etapa, onde o Azure realiza uma validação de todas as configurações. Após confirmaos, o processo de provisionamento da máquina virtual e iniciado e em instantes teremos a mesma no ar para acesso.
+  * Aqui é a última etapa, onde o Azure realiza uma validação de todas as configurações. Após confirmamos, o processo de provisionamento da máquina virtual e iniciado e em instantes teremos a mesma no ar para acesso.
