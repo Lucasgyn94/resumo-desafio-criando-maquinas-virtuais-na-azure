@@ -1,7 +1,7 @@
 # Resumo Laborátorio - Criando Máquinas Virtuais na Azur
 * Neste laboratório tive a experiência prática de aprender a criação de uma Máquina Virtual com Windos Server no portal da da Azure.
 * Durante a atividade, seguir os passos para provisionar uma nova VM, consolidando os seguintes conhecimentos:
-1. **Conceitos de Disponibilidade (SLA): Antes de iniciar a criação da VM, foi importante que a instrutora revisasse os conceitos de __Acordo de Nível de Serviço (SLA)__. Compreendi como os diferentes percentuais de SLA (99%, 99,9%, 99,99%)se traduzem em tempo de inatividade permitido sendo assim muito importante escolhermos as opções de disponibilidade correta.
+1. **Conceitos de Disponibilidade (SLA)**: Antes de iniciar a criação da VM, foi importante que a instrutora revisasse os conceitos de __Acordo de Nível de Serviço (SLA)__. Compreendi como os diferentes percentuais de SLA (99%, 99,9%, 99,99%)se traduzem em tempo de inatividade permitido sendo assim muito importante escolhermos as opções de disponibilidade correta.
 2. **Navegação e Acesso ao Recurso**: Iniciamos acessando o portal do azure e seguindo os seguintes passos:
   - Acessar __"Todos os Serviços"__ -> Categoria __"Computação"__ -> Selecionar 
 __"Máquinas Virtuais"__
